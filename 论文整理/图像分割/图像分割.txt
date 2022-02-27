@@ -1,0 +1,13 @@
+FCN
+U-Net FusionNet
+SegNet & DeconvNet
+Deeplab系列
+GCN
+DFN
+RefineNet
+ENNet & LineNet
+BiSenet
+dfanet 
+light-weight refinenet
+rednet
+rdfnet
