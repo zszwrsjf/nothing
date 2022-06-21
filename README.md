@@ -1,2 +1,2 @@
 # nothing
-是完全属于个玩耍了
+some paper of deep learning.
